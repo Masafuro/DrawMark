@@ -5,7 +5,7 @@ DrawMark は、draw.ioの図をXMLとして保存し、Markdown形式に変換�
 
 [https://www.drawio.com/](https://www.drawio.com/)
 
-1. drawioでTextboxを使ってなにか作る
+1. drawioでTextboxを使ってなにか作る。このとき、マークダウン記法で書くものとする。
 2. xmlエクスポートする。
 3. drawmark.pyを実行すると読み込みダイアログがでるので、2のxmlファイルを読み込む。
 4. 保存ダイアログで.mdファイルを保存する。
