@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="ページ1" id="WCfxNGAWlqBBdZial_JR">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z9xWWOfX1AbZNwO40tb0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9xWWOfX1AbZNwO40tb0-1" target="z9xWWOfX1AbZNwO40tb0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9xWWOfX1AbZNwO40tb0-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;# 1. DrawMark Test&lt;/h1&gt;&lt;p&gt;DrawMarkでは開発情報をdrawioで記述し、xmlにエクスポートした後、.md形式に変換することで開発の記録と文書化を効率よく実施する方法である。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z9xWWOfX1AbZNwO40tb0-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;## 1.1. 概要&lt;/h1&gt;&lt;p&gt;ここでは主な仕組みを考える。まずdrawioでTextboxを作成し、それぞれのテキストボックスに内容を記載する。このとき、Heading部分にはツリー構造を表すツリーナンバリングを記入するものとする。またテキストの内容には.md記法を利用するものとする。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="210" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
