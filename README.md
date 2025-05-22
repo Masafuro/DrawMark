@@ -3,7 +3,7 @@ DrawMark は、draw.ioの図をXMLとして保存し、Markdown形式に変換�
 
 ## 使い方
 
-![https://www.drawio.com/](https://www.drawio.com/)
+[https://www.drawio.com/](https://www.drawio.com/)
 
 1. drawioでTextboxを使ってなにか作る
 2. xmlエクスポートする。
